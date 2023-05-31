@@ -299,7 +299,11 @@ $ git log --oneline --decorate --all --graph
 * e8ad71d Se crea repositorio y se crea el archivo README y COMMIT inicial
 
 Arbusta@N-407 MINGW64 ~/Desktop/Ejercicio_final_GIT_HUB/Devjumpers (main)
-$
+
+| Nombre               | GitHub                          |
+| -------------------- | ------------------------------- |
+| Francisco Abramoff    | [Fran1923](https://github.com/Fran1923) |
+| Yuneidis Serna   | [YuneidisLS](https://github.com/YuneidisLS) |
 
 
 
